@@ -1,2 +1,18 @@
 ### Hi there 👋
-### I am Ian Drilon
+
+**I'm glad you visit my profile!!** :star_struck: <br> I am a student from ISAT U (Iloilo Science And University) who are very curious about how technolgoy works way back in 2016. <br> This is my journey on my :running_man: [**GitHub Profile**](https://github.com/zneret03?tab=repositories). Outside [**Github**](https://github.com/zneret03), i'am very active on working out and reading books.
+You can find me **Find me in** [**LinkedIn**](https://www.linkedin.com/in/ian-drilon-952a37179/). These are the **projects** i'm working on right now:
+<br>
+<br>
+[![Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/zneret03)
+
+|      Project :octocat:   | Done :sweat_drops: | 
+|---------------|------------|
+|[**Shopify**](https://github.com/zneret03/Shopify) | **10%** |
+
+<br>
+
+Consider leaving a :star: for COVID 19 :philippines: built by me! :hugs: <br>
+**Say Hi on Instagram([@ian.drilon.7](https://www.instagram.com/ian.drilon.7/))!** :heart: 💬
+
+**Feel free** to message me:blush:
