@@ -11,7 +11,7 @@ This is the **project** i'm working on right now.
 
 |      Project :octocat:   | Done :sweat_drops: | 
 |---------------|------------|
-|[**Shopify**](https://github.com/zneret03/Shopify) | **70%** |
+|[**Portfolio**](https://github.com/zneret03/Shopify) | **0%** |
 
 <br>
 
