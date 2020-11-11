@@ -8,7 +8,7 @@ You can **Find me in** [**LinkedIn**](https://www.linkedin.com/in/ian-drilon-952
 <br>
 
 ### :seedling: Framework and tools I'm currently working on...
-React.Js, Next.Js, Netlify, Firebase
+React.Js, Next.Js, Netlify, Firebase, Figma
 
 
 
