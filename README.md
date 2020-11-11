@@ -14,6 +14,6 @@ React.Js, Next.Js, Netlify, Firebase, Figma
 <br>
 
 ### 📫 How to reach me...
-[Facebook](https://www.facebook.com/ian.drilon.7/)
-[Instagram](https://www.instagram.com/zen.codes/)
-[LinkedIn](https://www.linkedin.com/in/ian-drilon-952a37179/)
+- [Facebook](https://www.facebook.com/ian.drilon.7/)
+- [Instagram](https://www.instagram.com/zen.codes/)
+- [LinkedIn](https://www.linkedin.com/in/ian-drilon-952a37179/)
