@@ -11,11 +11,15 @@ This is the **project** i'm working on right now.
 
 |      Project :octocat:   | Done :sweat_drops: | 
 |---------------|------------|
-|[**Portfolio**](https://github.com/zneret03/Shopify) | **0%** |
+|[**Portfolio**]() | **0%** |
 
 <br>
 
 Consider leaving a :star: for COVID 19 :philippines: built by me! :hugs: <br>
 **Say Hi on Instagram([@ian.drilon.7](https://www.instagram.com/ian.drilon.7/))!** :heart: 💬
+
+**Portfolio**
+[Portfolio](https://drilon7.vercel.app/)
+
 
 **Feel free to message me**:blush:
