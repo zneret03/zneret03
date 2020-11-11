@@ -7,7 +7,10 @@
 You can **Find me in** [**LinkedIn**](https://www.linkedin.com/in/ian-drilon-952a37179/). 
 <br>
 
-Consider leaving a :star: for COVID 19 :philippines: built by me! :hugs: <br>
+### :seedling: Framework and tools I'm currently working on...
+
+
+
 **Say Hi on Instagram([@ian.drilon.7](https://www.instagram.com/ian.drilon.7/))!** :heart: 💬
 
 **Feel free to message me**:blush:
