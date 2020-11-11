@@ -12,10 +12,6 @@ This is the **project** i'm working on right now.
 <br>
 [![Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/zneret03)
 
-|      Project :octocat:   | Done :sweat_drops: | 
-|---------------|------------|
-|[**Portfolio**](https://github.com/zneret03/Shopify) | **0%** |
-
 <br>
 
 Consider leaving a :star: for COVID 19 :philippines: built by me! :hugs: <br>
